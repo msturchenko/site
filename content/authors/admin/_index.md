@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mihail Turchenko
+title: Mikhail Turchenko
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Ph.D. in Political Science
+      institution: Higher School of Economics
+      year: 2019
+    - course: M.A. in Political Science, summa cum laude
+      institution: European University at St. Petersburg
+      year: 2014
+    - course: Specialist in Political Science, summa cum laude
+      institution: Petrozavodsk State University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,5 +67,3 @@ highlight_name: true
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
