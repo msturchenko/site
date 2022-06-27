@@ -8,7 +8,7 @@
 appearance:
   theme_day: ocean
   theme_night: ocean
-  font: Open+Sans:wght@300
+  font: Open Sans
   font_size: L
 
 # SEO
